@@ -1,0 +1,25 @@
+{
+  "name": "sooldamwha",
+  "version": "1.0.0",
+  "description": "\"술담화 팀프로젝트\"",
+  "main": "web.js",
+  "scripts": {
+    "server": "node ./web.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git node14@soolprac.cafe24app.com:node14_soolprac\t"
+  },
+  "keywords": [
+    "\"전통주\"",
+    "\"구독플랫폼\""
+  ],
+  "author": "\"team sooldamwha\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  }
+}

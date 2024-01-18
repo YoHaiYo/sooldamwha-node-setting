@@ -1,0 +1,36 @@
+@import"./font.css";
+
+.allpage_bg {
+  background-color: #ffdf80;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-family: "SOYOMapleBoldTTF", sans-serif
+}
+
+.allpage_bg .allpage_container {
+  max-width: 1280px;
+  margin: 0 auto
+}
+
+.allpage_bg button {
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+  font-family: "SOYOMapleBoldTTF", sans-serif
+}
+
+.allpage_bg .act {
+  color: #80c4ff
+}
+
+.allpage_bg .allpage_box {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: .5rem 1rem;
+  font-size: 20px;
+  margin: .2rem
+}
+
+.allpage_bg input {
+  height: 50px;
+  border-radius: 10px
+}
